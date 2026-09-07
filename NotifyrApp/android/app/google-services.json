@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876268005103",
+    "project_id": "notifyr-9b4fb",
+    "storage_bucket": "notifyr-9b4fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876268005103:android:7702897b33d9e5a44add1a",
+        "android_client_info": {
+          "package_name": "com.notifyrapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDusaCAWeLFqfv9F97RAt1yM_KwxUa4vF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
